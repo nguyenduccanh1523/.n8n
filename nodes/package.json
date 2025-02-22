@@ -1,0 +1,19 @@
+{
+  "name": "nodes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@cloodo/n8n-nodes-cloodo-crm": "^1.0.25",
+    "@cloodo/n8n-nodes-cloodo-finance": "^1.0.3",
+    "@cloodo/n8n-nodes-cloodo-hrm": "^1.0.2",
+    "@cloodo/n8n-nodes-cloodo-project": "^1.0.14",
+    "@cloodo/n8n-nodes-workchat": "^1.2.0"
+  }
+}
